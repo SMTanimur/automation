@@ -60,7 +60,7 @@
 }
 
 
-@keyframes progressAnimation {
+/* @keyframes progressAnimation {
   0% {
     width: 0%;
   }
@@ -79,7 +79,7 @@
 
 .animate-stripes {
   animation: stripes 1s linear infinite;
-}
+} */
 
 
 .styles_social-list__qptyG {
