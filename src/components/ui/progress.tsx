@@ -1,6 +1,6 @@
 
 import React from "react";
-import { cn, getColorClass } from "~/lib/utils";
+import { cn, getColorClass } from "@/lib/utils";
 
 type IColor =
   | "rose"
